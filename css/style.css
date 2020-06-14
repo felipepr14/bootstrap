@@ -1,0 +1,44 @@
+#felps {
+    font-size: 20px;
+    margin-left: 20px;
+}
+.navbar {
+    background-color: rgb(94, 199, 212);
+    padding-bottom: 30px;
+}
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#maistocadas {
+    background-color: powderblue;
+}
+#lista {
+    background-color: powderblue;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: cursive;
+}
+#playlist {
+    background-color: rgb(155, 121, 189);
+}
+#club57 {
+    background-color: rgb(120, 150, 238);
+}
+p {
+    font-size: large;
+    font-family: cursive;
+}
+h3 {
+    padding-bottom: 50px;
+    font-family: cursive;
+}
+footer {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background-color: black;
+    color: white;
+    
+
+}
